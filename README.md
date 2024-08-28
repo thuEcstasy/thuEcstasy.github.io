@@ -1,2 +1,2 @@
-Ecstasy's Hexo Blog
-2023.8.20-
+## Ecstasy's Hexo Blog
+## 2023.8.20-
